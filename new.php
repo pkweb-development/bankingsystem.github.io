@@ -18,7 +18,7 @@
 		<ul class="navbar-nav mr-auto">
 			<img src="https://image.flaticon.com/icons/png/512/66/66635.png" style="height: 50px;width: 60px">
 			<li class="nav-item">
-				<a class="nav-link" href="homepage.php" style="font-size: 30px; font-weight: bold;padding-right: 100px">Home</a>	
+				<a class="nav-link" href="index.html" style="font-size: 30px; font-weight: bold;padding-right: 100px">Home</a>	
 			</li>
 			<li class="nav-item active">
 				<a class="nav-link" href="#"style="font-size: 30px; font-weight: bold">Users<span class="sr-only">(current)</span></a>	
